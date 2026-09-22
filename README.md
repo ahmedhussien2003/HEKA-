@@ -4,6 +4,11 @@
 
 **Heka** is a cutting-edge cross-platform application for **Ancient Egyptian Hieroglyphics Detection, AI-Powered Translation, and Augmented Reality (AR) Exploration**.
 
+## 📱 Try it out!
+
+- 📥 **[Download APK](https://drive.google.com/file/d/1FvREAIb_XvFetmgKtpqoc8NHMDuB51rQ/view?usp=drive_link)**
+- 🎥 **[Watch Demo Video](https://drive.google.com/file/d/1R2VSjuIFifKjul9t-kQk9uI-LkJp7CNM/view?usp=sharing)**
+
 ---
 
 ## 📄 Complete Prototype Information & Feature Documentation
