@@ -1,0 +1,6 @@
+{
+    "python-envs.defaultEnvManager": "ms-python.python:system",
+    "python-envs.pythonProjects": [],
+    "cmake.sourceDirectory": "D:/Repos/Flutter_projects/GP_First_Version/linux",
+    "java.configuration.updateBuildConfiguration": "interactive"
+}

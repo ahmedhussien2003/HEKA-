@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "691045582473",
+    "project_id": "heka-65f39",
+    "storage_bucket": "heka-65f39.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691045582473:android:fec1e62b80de9b9b19a858",
+        "android_client_info": {
+          "package_name": "com.example.heka"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "691045582473-9ldtjqnvqtheskliua1urlh9snqutr2d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.heka",
+            "certificate_hash": "b7dd8f28d205ce4c513c3c8b6d8e917f331d67a9"
+          }
+        },
+        {
+          "client_id": "691045582473-0ded39ckmievcfs1nh66nf0qbqktt3a6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlbbWsiw7a793DWduoyAU66sl7Zw1x4UE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "691045582473-0ded39ckmievcfs1nh66nf0qbqktt3a6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "691045582473-v3ucu39korhifpv3ee8jqhslgdg1641g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.heka"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
